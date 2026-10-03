@@ -1,0 +1,4 @@
+Comidas favoritas:
+- Sushi
+- Tacos
+- Pizza
