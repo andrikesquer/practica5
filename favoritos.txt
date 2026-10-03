@@ -2,3 +2,8 @@ Comidas favoritas:
 - Sushi
 - Tacos
 - Pizza
+
+Peliculas favoritas:
+- Interstellar
+- El Padrino
+- Spirited Away
